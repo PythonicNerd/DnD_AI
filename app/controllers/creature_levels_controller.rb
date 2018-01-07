@@ -1,0 +1,2 @@
+class CreatureLevelsController < ApplicationController
+end
